@@ -1,5 +1,5 @@
 # 🚀 problem-Solving-daily
-My journey solving problems with explanations, solutions, and optimizations.
+My journey solving problems with explanations, solutions, and optimizations.\n
 ✅ **LEVEL 1**
 ✅ **Progress:** 1/50 Problems Solved  
 
