@@ -7,9 +7,9 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | #  | Problem | Topic | Solution |  
 |--- |---------|-------|----------|  
 | 1  |[prime numbers]|       |          |  
-| 2  |perfect number         |       |          |
-| 3  |         |       |          |
-| 4  |         |       |          |
+| 2  |perfect number         |       |LEVEL 1/perfect number.cpp          |
+| 3  |multiplication table         |       |LEVEL 1/multiplication_table.cpp          |
+| 4  |perfect numbers from 1 to n         |       |LEVEL 1/all_perfect_numbers_from_1to_n.cpp          |
 | 5  |         |       |          |
 | 6  |         |       |          |
 | 7  |         |       |          |
