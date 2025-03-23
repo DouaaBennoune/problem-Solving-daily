@@ -11,7 +11,7 @@ int validation(string Message){
     
     return n;
 };
-for (int i=1;i<n;i++){
+
 bool  divs(int n){
     int sum=0;
     for(int i=1;i<n;i++){
@@ -28,7 +28,7 @@ void is_perfect(int n){
         
     }
     else{cout<<"the number is not perfect";};
-}
+
 }
 
 
