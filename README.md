@@ -7,7 +7,7 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | #  | Problem | Topic | Solution |  
 |--- |---------|-------|----------|  
 | 1  |[prime numbers]|       |          |  
-| 2  |         |       |          |
+| 2  |perfect number         |       |          |
 | 3  |         |       |          |
 | 4  |         |       |          |
 | 5  |         |       |          |
