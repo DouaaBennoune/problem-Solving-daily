@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eff30a6c-69a7-423c-9bf7-b21a095a49fc)# 🚀 problem-Solving-daily
+# 🚀 problem-Solving-daily
 My journey solving problems with explanations, solutions, and optimizations.\n
 ✅ **LEVEL 1**
 ✅ **Progress:** 1/50 Problems Solved  
@@ -16,7 +16,7 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | 8  |Digit Frequency|       |[Digit Frequency.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/1788dc60d21588e5a734b158a237eb9871c5c6b0/LEVEL%201/Digit_Frequency.cpp)|
 | 9  |all digits frequency         |       |[all digits frequency.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/2ecbd0389b3b11bf0314ad915f4ec2200b0d7a7b/LEVEL%201/all_digits_frequency.cpp)
           |
-| 10 |         |       |          |
+| 10 |print digits in order         |       |[print digits in order.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/00d6c487c635aee524ee415812a0585a07a3551c/LEVEL%201/print_digits_in_order.cpp)|
 | 11 |         |       |          |
 | 12 |         |       |          |
 | 13 |         |       |          |
