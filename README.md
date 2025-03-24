@@ -1,4 +1,4 @@
-# 🚀 problem-Solving-daily
+![image](https://github.com/user-attachments/assets/eff30a6c-69a7-423c-9bf7-b21a095a49fc)# 🚀 problem-Solving-daily
 My journey solving problems with explanations, solutions, and optimizations.\n
 ✅ **LEVEL 1**
 ✅ **Progress:** 1/50 Problems Solved  
@@ -14,7 +14,8 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | 6  |sum of digits|       |[sum of digits](https://github.com/DouaaBennoune/problem-Solving-daily/blob/ba6460b0fa2ef6913a7dc51112fea9e2412459da/LEVEL%201/sum_of_digits.cpp )         |
 | 7  | reverse of a number         |       |[reverse_of_n.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/f8562f3ead61802d137361a059d00a8c668ecec2/LEVEL%201/reverse_of_n.cpp)|
 | 8  |Digit Frequency|       |[Digit Frequency.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/1788dc60d21588e5a734b158a237eb9871c5c6b0/LEVEL%201/Digit_Frequency.cpp)|
-| 9  |         |       |          |
+| 9  |all digits frequency         |       |![Uploading image.png…]()
+          |
 | 10 |         |       |          |
 | 11 |         |       |          |
 | 12 |         |       |          |
