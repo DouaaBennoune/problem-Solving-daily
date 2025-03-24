@@ -14,8 +14,7 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | 6  |sum of digits|       |[sum of digits](https://github.com/DouaaBennoune/problem-Solving-daily/blob/ba6460b0fa2ef6913a7dc51112fea9e2412459da/LEVEL%201/sum_of_digits.cpp )         |
 | 7  | reverse of a number         |       |[reverse_of_n.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/f8562f3ead61802d137361a059d00a8c668ecec2/LEVEL%201/reverse_of_n.cpp)|
 | 8  |Digit Frequency|       |[Digit Frequency.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/1788dc60d21588e5a734b158a237eb9871c5c6b0/LEVEL%201/Digit_Frequency.cpp)|
-| 9  |all digits frequency         |       |[all digits frequency.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/2ecbd0389b3b11bf0314ad915f4ec2200b0d7a7b/LEVEL%201/all_digits_frequency.cpp)
-          |
+| 9  |all digits frequency         |       |[all digits frequency.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/2ecbd0389b3b11bf0314ad915f4ec2200b0d7a7b/LEVEL%201/all_digits_frequency.cpp)|
 | 10 |print digits in order         |       |[print digits in order.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/00d6c487c635aee524ee415812a0585a07a3551c/LEVEL%201/print_digits_in_order.cpp)|
 | 11 |         |       |          |
 | 12 |         |       |          |
