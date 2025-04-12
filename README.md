@@ -18,7 +18,7 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | 10 |print digits in order         |       |[print digits in order.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/00d6c487c635aee524ee415812a0585a07a3551c/LEVEL%201/print_digits_in_order.cpp)|
 | 11 |fill array with random numbers and show the min         |       | [minRandArray](https://github.com/DouaaBennoune/problem-Solving-daily/blob/7cdcdc0a8ee2501831b37a13306f935e8c1825b4/LEVEL%201/minRandArray.cpp)        |
 | 12 | fill array with random numbers and calculate their average   |       | [random array average](https://github.com/DouaaBennoune/problem-Solving-daily/blob/a5df19ab339c972cd0848a929a6ccfeeebe188c3/LEVEL%201/arrAverage.cpp)         |
-| 13 | fill array with random numbers and print array and another copy of it |       |          |[print array and another copy of it ]([https://github.com/DouaaBennoune/problem-Solving-](https://github.com/DouaaBennoune/problem-Solving-daily/blob/2e3caa19ad18bf72b8fc4c2273dc83741dfa9f95/LEVEL%201/ArrCoppy.cpp )
+| 13 | fill array with random numbers and print array and another copy of it |       |          |[print array and another copy of it ](https://github.com/DouaaBennoune/problem-Solving-daily/blob/2e3caa19ad18bf72b8fc4c2273dc83741dfa9f95/LEVEL%201/ArrCoppy.cpp )
 | 14 |         |       |          |
 | 15 |         |       |          |
 | 16 |         |       |          |
