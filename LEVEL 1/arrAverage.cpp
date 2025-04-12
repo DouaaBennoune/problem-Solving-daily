@@ -7,13 +7,13 @@ int random_numbers_generator(int From , int To){
 
 };
 void fill_array_with_random_numbers(int arr[100], int &arrLength ){
-    for (int i =1 ; i <=arrLength ; i++){
+    for (int i =0 ; i <arrLength ; i++){
         arr[i]=random_numbers_generator(1,100);
     }
 
 };
  void print_array(int arr[100], int &arrLength){
-    for (int i =1 ; i <=arrLength ; i++){
+    for (int i =0; i <arrLength ; i++){
         cout<<arr[i]<<" ";
         
     }
@@ -21,7 +21,7 @@ void fill_array_with_random_numbers(int arr[100], int &arrLength ){
  }
  int Average_array(int arr[100],int &arrLength){
     int sum=0;
-    for (int i =1 ; i <=arrLength ; i++){
+    for (int i =0 ; i <arrLength ; i++){
         sum+=arr[i];
 
     }
