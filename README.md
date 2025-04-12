@@ -17,7 +17,7 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | 9  |all digits frequency         |       |[all digits frequency.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/2ecbd0389b3b11bf0314ad915f4ec2200b0d7a7b/LEVEL%201/all_digits_frequency.cpp)|
 | 10 |print digits in order         |       |[print digits in order.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/00d6c487c635aee524ee415812a0585a07a3551c/LEVEL%201/print_digits_in_order.cpp)|
 | 11 |fill array with random numbers and show the min         |       | [minRandArray](https://github.com/DouaaBennoune/problem-Solving-daily/blob/7cdcdc0a8ee2501831b37a13306f935e8c1825b4/LEVEL%201/minRandArray.cpp)        |
-| 12 |         |       |          |
+| 12 | fill array with random numbers and calculate their average   |       | [random array average](https://github.com/DouaaBennoune/problem-Solving-daily/blob/a5df19ab339c972cd0848a929a6ccfeeebe188c3/LEVEL%201/arrAverage.cpp)         |
 | 13 |         |       |          |
 | 14 |         |       |          |
 | 15 |         |       |          |
