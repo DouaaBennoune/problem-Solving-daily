@@ -22,7 +22,7 @@ My journey solving problems with explanations, solutions, and optimizations.\n
 | 14 |  shuffle array        |       |  [shuffle array ](https://github.com/DouaaBennoune/problem-Solving-daily/blob/c986f18f0d12f8c6f28e0b780d8d0b6a267390ad/LEVEL%201/shuffle.cpp)        |
 | 15 | sum of 2 arrays in 1 array        |       |[sum2in3](https://github.com/DouaaBennoune/problem-Solving-daily/blob/1e490b0a50ada90dd0b86038adeabc109e9033b8/LEVEL%201/sum2in3.cpp)         |
 | 16 | copy prime numbers only from the original array        |       |[copy prime array ](https://github.com/DouaaBennoune/problem-Solving-daily/blob/9e00fe2ebe7b096a8bf67bfb69550cefa5f333b9/LEVEL%201/primeCopyArray.cpp)         |
-| 17 |copy the original array but in reverse          |       |[copyReversse.cpp] (https://github.com/DouaaBennoune/problem-Solving-daily/blob/17f19d52938e024b9c2011f882411ff0e04ed9bf/LEVEL%201/copyReverse.cpp)         |
+| 17 |copy the original array but in reverse          |       |[copyReversse.cpp](https://github.com/DouaaBennoune/problem-Solving-daily/blob/17f19d52938e024b9c2011f882411ff0e04ed9bf/LEVEL%201/copyReverse.cpp)         |
 | 18 |         |       |          |
 | 19 |         |       |          |
 | 20 |         |       |          |
